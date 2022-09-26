@@ -1,0 +1,37 @@
+body{
+  background-color: #333333;
+  }
+
+  .homepage {
+    max-width: 38.6%;
+    font-size: 4.2rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: #A6051A;
+  }
+  
+  .homepage:hover{
+    cursor: pointer;
+    text-decoration:underline;
+  }
+
+.button {
+  font-size: 1.8rem;
+  padding: 1rem;
+  width: 20rem;
+  border: 0.1rem solid #A6051A;
+  text-decoration: none;
+  color: #A6051A;
+  background-color: white;
+}
+
+.button:hover {
+  cursor: pointer;
+  background:#A6051A;
+  color:#fff;
+  box-shadow: 0 0.4rem 1.4rem 0 #111111;
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;
+}
+

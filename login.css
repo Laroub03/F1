@@ -1,0 +1,17 @@
+body{
+  background-color: #333333;
+  }
+
+.homepage {
+    max-width: 38.6%;
+    font-size: 4.2rem;
+    margin-bottom: 4rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: #A6051A;
+  }
+  
+  .homepage:hover{
+    cursor: pointer;
+    text-decoration:underline;
+  }
